@@ -1,0 +1,6 @@
+/*Eight8. CSS Custom Style*/
+
+/*===NAVBAR RIGHT===*/
+.navbar-collapse{
+	justify-content: flex-end;
+}
